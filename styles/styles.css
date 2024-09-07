@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.celeste{
+    font-family:'Times New Roman';
+    font-size: 20px;
+    text-align: center;
+    color: skyblue;
+    margin-top: 20px;
+}
